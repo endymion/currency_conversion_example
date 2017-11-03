@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    google_currency (3.4.0)
+      money (~> 6.7)
+    i18n (0.8.6)
+    money (6.9.0)
+      i18n (>= 0.6.4, < 0.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  google_currency
+  money
+
+BUNDLED WITH
+   1.15.1
